@@ -1,4 +1,3 @@
-import Ember from 'ember';
+<%= importComponent %>
 <%= importTemplate %>
-export default Ember.Component.extend({<%= contents %>
-});
+export default <%= defaultExport %>
