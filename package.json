@@ -26,7 +26,7 @@
     "ember-cli-version-checker": "^2.1.2",
     "lodash.assign": "^4.2.0",
     "lodash.defaults": "^4.2.0",
-    "emblem": "evgenibir/emblem.js.git#v0.13.3"
+    "emblem": "evgenibir/emblem.js.git#v0.13.4"
   },
   "devDependencies": {
     "@ember/jquery": "",
