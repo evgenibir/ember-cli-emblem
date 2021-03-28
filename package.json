@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-emblem",
-  "version": "0.13.2",
+  "version": "0.13.3",
   "description": "An ember-cli addon for Emblem.js templates.",
   "keywords": [
     "ember-addon",
@@ -26,7 +26,7 @@
     "ember-cli-version-checker": "^2.1.2",
     "lodash.assign": "^4.2.0",
     "lodash.defaults": "^4.2.0",
-    "emblem": "evgenibir/emblem.js.git#v0.13.2"
+    "emblem": "evgenibir/emblem.js.git#v0.13.3"
   },
   "devDependencies": {
     "@ember/jquery": "",
